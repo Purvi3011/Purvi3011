@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **purviparmar3011@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16wavCBy9qouOVZwfULmzkPFfJECOYcCH/view?usp=sharing](https://drive.google.com/file/d/16wavCBy9qouOVZwfULmzkPFfJECOYcCH/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fFk5s2sdoDlL7DSNnpbZ7JzAoMKkLY_H/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
