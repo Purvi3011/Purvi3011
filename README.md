@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purvi3011&label=Profile%20views&color=0e75b6&style=flat" alt="purvi3011" /> </p>
 
-- 🌱 I’m currently learning **AWS Cloud and DSA**
+- 🌱 I’m certified AWS Cloud Solutions Architect**
 
 - 📫 How to reach me **purviparmar3011@gmail.com**
 
